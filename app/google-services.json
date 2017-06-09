@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "130222530732",
+    "firebase_url": "https://admob-app-id-6667341950.firebaseio.com",
+    "project_id": "admob-app-id-6667341950",
+    "storage_bucket": "admob-app-id-6667341950.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130222530732:android:f1a201ccdf9e5283",
+        "android_client_info": {
+          "package_name": "com.fachri.mapsdirection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130222530732-53ourqak5s26s32l2g6jhvib15c0oo98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7K3tG_1iJA4lEKz5rzTZHACdqCST1bL0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
